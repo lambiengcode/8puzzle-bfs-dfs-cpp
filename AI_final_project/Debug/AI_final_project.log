@@ -1,0 +1,8 @@
+﻿  AI_final_project.cpp
+E:\proj\AI_final_project\AI_final_project\AI_final_project.cpp(177,20): warning C4018: '<': signed/unsigned mismatch
+E:\proj\AI_final_project\AI_final_project\AI_final_project.cpp(780,7): warning C4101: 'x': unreferenced local variable
+E:\proj\AI_final_project\AI_final_project\AI_final_project.cpp(867,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\proj\AI_final_project\AI_final_project\AI_final_project.cpp(185): warning C4715: 'find0ofpath': not all control paths return a value
+E:\proj\AI_final_project\AI_final_project\AI_final_project.cpp(375): warning C4715: 'findPos0': not all control paths return a value
+E:\proj\AI_final_project\AI_final_project\AI_final_project.cpp(536): warning C4715: 'reverseAction': not all control paths return a value
+  AI_final_project.vcxproj -> E:\proj\AI_final_project\Debug\AI_final_project.exe
